@@ -13,5 +13,5 @@ ___
 [![Editor](https://img.shields.io/badge/Editor-Neovim-blue?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Editor](https://img.shields.io/badge/Editor-VSCodium-blue?style=flat-square&logo=vscodium&logoColor=white)](https://code.visualstudio.com/)
 
-[![Bash](https://img.shields.io/badge/Bash-Scripting-informational?style=flat-square&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Bash)
-[![Dotnet](https://img.shields.io/badge/Python-3.X-informational?style=flat-square&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Bash)
+[![Bash](https://img.shields.io/badge/Bash-Scripting-informational?style=flat-square&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Python](https://img.shields.io/badge/Python-3.X-informational?style=flat-square&logo=python&logoColor=white)](https://python.org)
