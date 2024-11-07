@@ -8,4 +8,4 @@ ___
 
 [![OS](https://img.shields.io/badge/OS-Linux-yellow?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Distro](https://img.shields.io/badge/Distro-Arch%20linux-blue?style=flat-square&logo=archlinux&logoColor=white)](https://en.wikipedia.org/wiki/Arch_Linux)
-[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=dwm&logoColor=white)]()
+[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-darkblue?style=flat-square&logo=dwm&logoColor=white)]()
