@@ -1,6 +1,6 @@
 
-# Cyber security student and Linux enthusiast :)
-Hi my name is Ben, I currently study cybersecurity with a vast interest for redteaming and pentesting. Aiming to make digital landscapes more secure.
+# Cybersecurity student and Linux enthusiast :)
+Currently studying cybersecurity with a vast interest for redteaming and pentesting. Aiming to make digital landscapes more secure.
 ___
 ![Profile](https://img.shields.io/badge//-Hack%20The%20Box-green?style=flat-square&logo=hackthebox&logoColor=white) 
 ![Profile](https://img.shields.io/badge//-Try%20Hack%20Me-darkred?style=flat-square&logo=tryhackme&logoColor=white)
